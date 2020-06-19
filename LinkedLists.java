@@ -2,6 +2,7 @@
 //Got help from youtube for refreshment
 //Day 2 - July 21, 2018 at home 6L32 PM programmed by Kevin Dale T.
 //I'm odd but I included some of the even problems
+//Hey I'm back its been 2 years since I have last access you
 /*
 Methods I'm done with:
    public void addFront(int items);
